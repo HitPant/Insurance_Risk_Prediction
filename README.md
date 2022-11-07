@@ -12,12 +12,12 @@ In this approach along with Classification models, regression models are used wi
 
 images
 
-3. Based on the skewness, rest of the columns are imputed using mean or median.
+3. Based on the **skewness**, rest of the columns are imputed using mean or median.
 4. The dataset has only one categorical column [Product_Info_2] : Label Encoding
-5. Remove outliers
+5. **Remove outliers**
 6. Since the feature set is large and we cannot deduce the correlation we calculate feature score using Mutual independence Chi-square
-7. Split data into X_train, y_train.
-8. Models used:<br>
-&nbsp;&nbsp; - Classifier: Support Vector Machine, Logistic Regression<br>
-&nbsp;&nbsp; - Regressor: Linear Regressor, SGDRegressor<br>
-9. GridSearch: to crossvalidate the params within multiple models
+7. **Split data** into X_train, y_train.
+8. **Models used**:<br>
+&nbsp;&nbsp; - **Classifier**: Support Vector Machine, Logistic Regression<br>
+&nbsp;&nbsp; - **Regressor**: Linear Regressor, SGDRegressor<br>
+9. **GridSearch**: to crossvalidate the params within multiple models
