@@ -28,4 +28,6 @@ In this approach along with Classification models, regression models are used wi
 8. **Models used**:<br>
 &nbsp;&nbsp; - **Classifier**: Support Vector Machine, Logistic Regression<br>
 &nbsp;&nbsp; - **Regressor**: Linear Regressor, SGDRegressor<br>
+&nbsp;&nbsp; - **Anomaly detection**: Isolation forest
 9. **GridSearch**: to crossvalidate the params within multiple models
+10. Anomaly detection using Isolation forest
