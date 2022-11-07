@@ -31,3 +31,6 @@ In this approach along with Classification models, regression models are used wi
 &nbsp;&nbsp; - **Anomaly detection**: Isolation forest
 9. **GridSearch**: to crossvalidate the params within multiple models
 10. Anomaly detection using Isolation forest
+
+## Model Comparision
+![alt-text](https://github.com/HitPant/Prudential_Insurance/blob/main/images/cmp.jpg)
