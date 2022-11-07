@@ -1,9 +1,14 @@
 # Prudential_Insurance
 
-### **Aim:**
+## **Problem Statement:**
+Predict customer risk based on the input parameters.<br>
+Risk can be in range 1-8.<br>
+1 is lowest and 8 is the highest risk.<br>
+
+## **Aim:**
 Developing a predictive model that accurately classifies risk using a more automated approach.
 
-### **Approach:**
+## **Approach:**
 In this approach along with Classification models, regression models are used with round up approach.
 
 ### Following steps have been performed:
