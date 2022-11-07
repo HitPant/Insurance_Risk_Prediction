@@ -17,7 +17,7 @@ images
 5. Remove outliers
 6. Since the feature set is large and we cannot deduce the correlation we calculate feature score using Mutual independence Chi-square
 7. Split data into X_train, y_train.
-8. Models used:
+8. Models used:<br>
 &nbsp;&nbsp; - Classifier: Support Vector Machine, Logistic Regression<br>
 &nbsp;&nbsp; - Regressor: Linear Regressor, SGDRegressor<br>
 9. GridSearch: to crossvalidate the params within multiple models
