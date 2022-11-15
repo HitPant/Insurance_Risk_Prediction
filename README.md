@@ -1,6 +1,6 @@
 # Prudential_Insurance
 
-![alt-text](https://github.com/HitPant/Insurance_Risk_Prediction/blob/main/images/ins.jpeg)
+![alt-text](https://github.com/HitPant/Insurance_Risk_Prediction/blob/main/images/insurance.jpeg)
 
 ## **Problem Statement:**
 Predict customer risk based on the input parameters.<br>
